@@ -44,11 +44,13 @@ https://www.gamedev.tv/p/unrealmultiplayer
 ## Deeper Dive
 
 - Animation Systems, Skeletal Meshes
+- Lighting
 
 ## To Explore
 
 - What does source control look like for Unreal & very large file sizes?
 - What does testing look like in Unreal & C++?
+- Character Rigging, Auto Riggers?
 
 ## To Consider
 
@@ -57,3 +59,9 @@ https://www.gamedev.tv/p/unreal-cinematic
 
 #### MetaHumans
 - https://www.youtube.com/watch?v=EkXV8Q8-ZD4
+
+## To Review & Sort
+
+- (lighting) https://www.youtube.com/watch?v=fSbBsXbjxPo
+- 
+
