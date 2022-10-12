@@ -3,10 +3,12 @@
 ### Course: Foundations and Feature Exploration
 https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
 
+**Summary/Concepts**
+Lorem ipsum
+
 **Additional**
 - (Actors & Components) https://www.youtube.com/watch?v=iQ3c-lrHO7o
 - (Blueprints & C++) https://www.youtube.com/watch?v=VMZftEVDuCE
-
 
 ### Course: Unreal Blueprints
 https://www.gamedev.tv/p/unreal-blueprint
