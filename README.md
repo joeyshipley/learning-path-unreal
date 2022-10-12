@@ -10,15 +10,24 @@ Lorem ipsum
 - (Actors & Components) https://www.youtube.com/watch?v=iQ3c-lrHO7o
 - (Blueprints & C++) https://www.youtube.com/watch?v=VMZftEVDuCE
 
+### Tutorial: Realistic Landscape and Painting
+https://www.youtube.com/watch?v=k-zMkzmduqI&t=0s
+
 ### Course: Unreal Blueprints
 https://www.gamedev.tv/p/unreal-blueprint
 
 **Additional**
+- (Blueprint Interfaces) https://www.youtube.com/watch?v=m9416Fi-PJw
+- (Blueprint Actor Components) https://www.youtube.com/watch?v=GxjrEzj9N5c
+
+### Tutorial: Top-down Shooter
+https://www.youtube.com/watch?v=ROMWCMmNBHE
 
 ### Course: Unreal C++
 https://www.gamedev.tv/p/cpp-fundamentals
 
 **Additional**
+- (Pointers) https://www.youtube.com/watch?v=kiUGf_Z08RQ
 
 ### Course: Math
 https://www.gamedev.tv/p/math-for-games
@@ -38,9 +47,13 @@ https://www.gamedev.tv/p/unrealmultiplayer
 
 ## To Explore
 
-- What does testing look like in Unreal & C++
+- What does source control look like for Unreal & very large file sizes?
+- What does testing look like in Unreal & C++?
 
 ## To Consider
 
 #### Unreal Cinematics Course
 https://www.gamedev.tv/p/unreal-cinematic
+
+#### MetaHumans
+- https://www.youtube.com/watch?v=EkXV8Q8-ZD4
