@@ -23,11 +23,20 @@ https://www.gamedev.tv/p/unreal-blueprint
 ### Tutorial: Top-down Shooter
 https://www.youtube.com/watch?v=ROMWCMmNBHE
 
+### Book: C++
+Effective C++, Scott Meyers
+
 ### Course: Unreal C++
 https://www.gamedev.tv/p/cpp-fundamentals
 
 **Additional**
 - (Pointers) https://www.youtube.com/watch?v=kiUGf_Z08RQ
+
+### Book: C++
+Effective Modern C++, Scott Meyers
+
+### Book: C++
+Beautiful C++, Kate Gregory
 
 ### Course: Math
 https://www.gamedev.tv/p/math-for-games
