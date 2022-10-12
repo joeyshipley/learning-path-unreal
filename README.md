@@ -1,6 +1,6 @@
 ## Learning Path: Unreal 5
 
-#### Course: Foundations and Feature Exploration
+### Course: Foundations and Feature Exploration
 https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
 
 **Additional**
@@ -8,22 +8,22 @@ https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
 - (Blueprints & C++) https://www.youtube.com/watch?v=VMZftEVDuCE
 
 
-#### Course: Unreal Blueprints
+### Course: Unreal Blueprints
 https://www.gamedev.tv/p/unreal-blueprint
 
 **Additional**
 
-#### Course: Unreal C++
+### Course: Unreal C++
 https://www.gamedev.tv/p/cpp-fundamentals
 
 **Additional**
 
-#### Course: Math
+### Course: Math
 https://www.gamedev.tv/p/math-for-games
 
 **Additional**
 
-#### Course: Multiplayer
+### Course: Multiplayer
 https://www.gamedev.tv/p/unrealmultiplayer
 
 **Additional**
