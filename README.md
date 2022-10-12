@@ -34,7 +34,7 @@ https://www.gamedev.tv/p/unrealmultiplayer
 
 ## Deeper Dive
 
-- Animations, Skeletal Meshes
+- Animation Systems, Skeletal Meshes
 
 ## To Explore
 
