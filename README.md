@@ -6,10 +6,10 @@
 - [ ] Learn/Setup: [Source Control - Perforce Helix Core](#)
 - [ ] Course: [Unreal Blueprints](#course-unreal-blueprints)
 - [ ] Tutorial: [Top-down Shooter](#tutorial-top-down-shooter)
-- [ ] Book: [Effective C++](#)
+- [ ] Book: [Effective C++](#book-effective-c)
 - [ ] Course: [Unreal C++](#course-unreal-c)
-- [ ] Book: [Effective Modern C++](#)
-- [ ] Book: [Beautiful C++](#)
+- [ ] Book: [Effective Modern C++](#book-effective-modern-c)
+- [ ] Book: [Beautiful C++](#book-beautiful-c)
 - [ ] Course: [Math](#course-math)
 - [ ] Course: [Multiplayer](#course-multiplayer)
 
@@ -57,6 +57,9 @@ https://www.youtube.com/watch?v=k-zMkzmduqI&t=0s
 
 ### Tutorial: Top-down Shooter
 https://www.youtube.com/watch?v=ROMWCMmNBHE
+
+### Tutorial: Perforce Helix Core Source Control in AWS
+- ?
 
 ## Books
 
