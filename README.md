@@ -3,7 +3,7 @@
 ### Checklist/Order
 - [x] Course: [Foundations and Feature Exploration](#course-foundations-and-feature-exploration)
 - [ ] Tutorial: [Realistic Landscape and Painting](#tutorial-realistic-landscape-and-painting)
-- [ ] Learn/Setup: [Source Control - Perforce Helix Core](#)
+- [ ] Learn/Setup: [Source Control - Perforce Helix Core](#tutorial-perforce-helix-core-source-control-in-aws)
 - [ ] Course: [Unreal Blueprints](#course-unreal-blueprints)
 - [ ] Tutorial: [Top-down Shooter](#tutorial-top-down-shooter)
 - [ ] Book: [Effective C++](#book-effective-c)
