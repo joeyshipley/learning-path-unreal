@@ -1,7 +1,7 @@
 ## Learning Path: Unreal 5
 
 ### Checklist/Order
-- [x] Course: Foundations and Feature Exploration
+- [x] Course: (Foundations and Feature Exploration)[https://github.com/joeyshipley/learning-path-unreal/blob/main/README.md#course-foundations-and-feature-exploration]
 - [ ] Tutorial: Realistic Landscape and Painting
 - [ ] Learn/Setup: Source Control - Perforce Helix Core
 - [ ] Course: Unreal Blueprints
