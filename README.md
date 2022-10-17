@@ -1,17 +1,17 @@
 ## Learning Path: Unreal 5
 
 ### Checklist/Order
-- [x] Course: [Foundations and Feature Exploration](https://github.com/joeyshipley/learning-path-unreal/blob/main/README.md#course-foundations-and-feature-exploration)
-- [ ] Tutorial: [Realistic Landscape and Painting]()
-- [ ] Learn/Setup: [Source Control - Perforce Helix Core]()
-- [ ] Course: [Unreal Blueprints]()
-- [ ] Tutorial: [Top-down Shooter]()
-- [ ] Book: [Effective C++]()
-- [ ] Course: [Unreal C++]()
-- [ ] Book: [Effective Modern C++]()
-- [ ] Book: [Beautiful C++]()
-- [ ] Course: [Math]()
-- [ ] Course: [Multiplayer]()
+- [x] Course: [Foundations and Feature Exploration](#course-foundations-and-feature-exploration)
+- [ ] Tutorial: [Realistic Landscape and Painting](#)
+- [ ] Learn/Setup: [Source Control - Perforce Helix Core](#)
+- [ ] Course: [Unreal Blueprints](#)
+- [ ] Tutorial: [Top-down Shooter](#)
+- [ ] Book: [Effective C++](#)
+- [ ] Course: [Unreal C++](#)
+- [ ] Book: [Effective Modern C++](#)
+- [ ] Book: [Beautiful C++](#)
+- [ ] Course: [Math](#)
+- [ ] Course: [Multiplayer](#)
 
 ## Courses
 
