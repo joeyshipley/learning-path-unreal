@@ -1,7 +1,5 @@
 ## Learning Path: Unreal 5
-``` 
-A collection of resources that will take one from a fresh start to a good starting set of knowledge around Unreal.
-```
+> A collection of resources that will take one from a fresh start to a good starting set of knowledge around Unreal.
 
 ### Checklist/Order
 - [x] Course: [Foundations and Feature Exploration](#course-foundations-and-feature-exploration)
