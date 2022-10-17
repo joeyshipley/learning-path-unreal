@@ -1,7 +1,7 @@
 ## Learning Path: Unreal 5
 
 ### Test Checklist
-- [x] Test
+- [] Test
 
 ### Path Order Checklist
 - [] Course: Foundations and Feature Exploration
