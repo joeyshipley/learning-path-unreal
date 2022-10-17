@@ -1,21 +1,17 @@
 ## Learning Path: Unreal 5
 
-### Test Checklist
-- [] Test
-
 ### Path Order Checklist
-- [] Course: Foundations and Feature Exploration
-- [] Tutorial: Realistic Landscape and Painting
-- [] Learn/Setup: Source Control - Perforce Helix Core
-- [] Course: Unreal Blueprints
-- [] Tutorial: Top-down Shooter
-- [] Book: Effective C++
-- [] Course: Unreal C++
-- [] Book: Effective Modern C++
-- [] Beautiful C++
-- [] Course: Math
-- [] Course: Multiplayer
-
+- [x] Course: Foundations and Feature Exploration
+- [ ] Tutorial: Realistic Landscape and Painting
+- [ ] Learn/Setup: Source Control - Perforce Helix Core
+- [ ] Course: Unreal Blueprints
+- [ ] Tutorial: Top-down Shooter
+- [ ] Book: Effective C++
+- [ ] Course: Unreal C++
+- [ ] Book: Effective Modern C++
+- [ ] Beautiful C++
+- [ ] Course: Math
+- [ ] Course: Multiplayer
 
 
 ### Course: Foundations and Feature Exploration
