@@ -75,7 +75,7 @@ Effective Modern C++, Scott Meyers
 ### Book: Beautiful C++
 Beautiful C++, Kate Gregory
 
-## Future Explorations/Considerations
+## Considerations / Find Resources For
 
 - What does testing look like in Unreal & C++?
 - Animation Systems, Skeletal Meshes
