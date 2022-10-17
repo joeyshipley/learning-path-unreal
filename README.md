@@ -22,7 +22,7 @@ A collection of resources that will take one from a fresh start to a good starti
 https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
 
 **Summary/Concepts**
-Lorem ipsum
+Coming soon.
 
 **Additional**
 - (Actors & Components) https://www.youtube.com/watch?v=iQ3c-lrHO7o
