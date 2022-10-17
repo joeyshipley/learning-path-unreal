@@ -1,6 +1,6 @@
 ## Learning Path: Unreal 5
 
-### Path Order Checklist
+### Checklist/Order
 - [x] Course: Foundations and Feature Exploration
 - [ ] Tutorial: Realistic Landscape and Painting
 - [ ] Learn/Setup: Source Control - Perforce Helix Core
@@ -13,6 +13,7 @@
 - [ ] Course: Math
 - [ ] Course: Multiplayer
 
+## Courses
 
 ### Course: Foundations and Feature Exploration
 https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
@@ -49,11 +50,15 @@ https://www.gamedev.tv/p/unrealmultiplayer
 
 - (Network Replication) https://www.youtube.com/watch?v=JOJP0CvpB8w
 
+## Tutorials
+
 ### Tutorial: Realistic Landscape and Painting
 https://www.youtube.com/watch?v=k-zMkzmduqI&t=0s
 
 ### Tutorial: Top-down Shooter
 https://www.youtube.com/watch?v=ROMWCMmNBHE
+
+## Books
 
 ### Book: C++
 Effective C++, Scott Meyers
@@ -64,27 +69,14 @@ Effective Modern C++, Scott Meyers
 ### Book: C++
 Beautiful C++, Kate Gregory
 
-## Deeper Dive
+## Future Explorations/Considerations
 
 - Animation Systems, Skeletal Meshes
 - Lighting
-
-## To Explore
-
 - What does source control look like for Unreal & very large file sizes?
 - What does testing look like in Unreal & C++?
 - Character Rigging, Auto Riggers?
-
-## To Consider
-
-#### Unreal Cinematics Course
-https://www.gamedev.tv/p/unreal-cinematic
-
-#### MetaHumans
-- https://www.youtube.com/watch?v=EkXV8Q8-ZD4
-
-## To Review & Sort
-
+- (Cinematics Course) https://www.gamedev.tv/p/unreal-cinematic
+- (MetaHumans) https://www.youtube.com/watch?v=EkXV8Q8-ZD4
 - (lighting) https://www.youtube.com/watch?v=fSbBsXbjxPo
-- ?
 
