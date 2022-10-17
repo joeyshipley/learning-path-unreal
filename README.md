@@ -2,16 +2,16 @@
 
 ### Checklist/Order
 - [x] Course: [Foundations and Feature Exploration](#course-foundations-and-feature-exploration)
-- [ ] Tutorial: [Realistic Landscape and Painting](#)
+- [ ] Tutorial: [Realistic Landscape and Painting](#tutorial-realistic-landscape-and-painting)
 - [ ] Learn/Setup: [Source Control - Perforce Helix Core](#)
-- [ ] Course: [Unreal Blueprints](#)
-- [ ] Tutorial: [Top-down Shooter](#)
+- [ ] Course: [Unreal Blueprints](#course-unreal-blueprints)
+- [ ] Tutorial: [Top-down Shooter](#tutorial-top-down-shooter)
 - [ ] Book: [Effective C++](#)
-- [ ] Course: [Unreal C++](#)
+- [ ] Course: [Unreal C++](#course-unreal-c)
 - [ ] Book: [Effective Modern C++](#)
 - [ ] Book: [Beautiful C++](#)
-- [ ] Course: [Math](#)
-- [ ] Course: [Multiplayer](#)
+- [ ] Course: [Math](#course-math)
+- [ ] Course: [Multiplayer](#course-multiplayer)
 
 ## Courses
 
@@ -60,13 +60,13 @@ https://www.youtube.com/watch?v=ROMWCMmNBHE
 
 ## Books
 
-### Book: C++
+### Book: Effective C++
 Effective C++, Scott Meyers
 
-### Book: C++
+### Book: Effective Modern C++
 Effective Modern C++, Scott Meyers
 
-### Book: C++
+### Book: Beautiful C++
 Beautiful C++, Kate Gregory
 
 ## Future Explorations/Considerations
