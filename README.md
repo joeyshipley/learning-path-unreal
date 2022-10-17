@@ -74,10 +74,8 @@ Beautiful C++, Kate Gregory
 
 ## Future Explorations/Considerations
 
-- Animation Systems, Skeletal Meshes
-- Lighting
-- What does source control look like for Unreal & very large file sizes?
 - What does testing look like in Unreal & C++?
+- Animation Systems, Skeletal Meshes
 - Character Rigging, Auto Riggers?
 - (Cinematics Course) https://www.gamedev.tv/p/unreal-cinematic
 - (MetaHumans) https://www.youtube.com/watch?v=EkXV8Q8-ZD4
