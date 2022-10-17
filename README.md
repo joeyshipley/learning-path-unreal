@@ -1,8 +1,8 @@
 ## Learning Path: Unreal 5
 
 ### Checklist/Order
-- [x] Course: [Foundations and Feature Exploration](#course-foundations-and-feature-exploration)
-- [ ] Tutorial: [Realistic Landscape and Painting](#tutorial-realistic-landscape-and-painting)
+1. [x] Course: [Foundations and Feature Exploration](#course-foundations-and-feature-exploration)
+2. [ ] Tutorial: [Realistic Landscape and Painting](#tutorial-realistic-landscape-and-painting)
 - [ ] Learn/Setup: [Source Control - Perforce Helix Core](#tutorial-perforce-helix-core-source-control-in-aws)
 - [ ] Course: [Unreal Blueprints](#course-unreal-blueprints)
 - [ ] Tutorial: [Top-down Shooter](#tutorial-top-down-shooter)
