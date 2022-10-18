@@ -80,6 +80,7 @@ Beautiful C++, Kate Gregory
 - Character Rigging, Auto Riggers?
 - (Cinematics Course) https://www.gamedev.tv/p/unreal-cinematic
 - (MetaHumans) https://www.youtube.com/watch?v=EkXV8Q8-ZD4
+- (MetaHumans) https://www.youtube.com/watch?v=k6BeWaBux7c
 - (lighting) https://www.youtube.com/watch?v=fSbBsXbjxPo
 - (blueprints) https://www.youtube.com/watch?v=bY6Nl-OEhSo
 - (blueprints) https://www.youtube.com/watch?v=x5KlU7Q4MzY
