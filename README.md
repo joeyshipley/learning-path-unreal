@@ -73,7 +73,7 @@ Effective Modern C++, Scott Meyers
 ### Book: Beautiful C++
 Beautiful C++, Kate Gregory
 
-## Considerations / Find Resources For
+## Considerations / Find Resources For / Review
 
 - What does testing look like in Unreal & C++?
 - Animation Systems, Skeletal Meshes
@@ -81,4 +81,5 @@ Beautiful C++, Kate Gregory
 - (Cinematics Course) https://www.gamedev.tv/p/unreal-cinematic
 - (MetaHumans) https://www.youtube.com/watch?v=EkXV8Q8-ZD4
 - (lighting) https://www.youtube.com/watch?v=fSbBsXbjxPo
-
+- (blueprints) https://www.youtube.com/watch?v=bY6Nl-OEhSo
+- (blueprints) https://www.youtube.com/watch?v=x5KlU7Q4MzY
