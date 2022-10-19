@@ -56,6 +56,11 @@ https://www.gamedev.tv/p/unrealmultiplayer
 ### Tutorial: Realistic Landscape and Painting
 https://www.youtube.com/watch?v=k-zMkzmduqI&t=0s
 
+**TOPICS**
+- Custom Materials
+- Textures
+- Material Tinting
+
 ### Tutorial: Top-down Shooter
 https://www.youtube.com/watch?v=ROMWCMmNBHE
 
