@@ -84,3 +84,4 @@ Beautiful C++, Kate Gregory
 - (lighting) https://www.youtube.com/watch?v=fSbBsXbjxPo
 - (blueprints) https://www.youtube.com/watch?v=bY6Nl-OEhSo
 - (blueprints) https://www.youtube.com/watch?v=x5KlU7Q4MzY
+- (large course) https://www.unrealmasterclass.com/
