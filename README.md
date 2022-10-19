@@ -58,8 +58,9 @@ https://www.youtube.com/watch?v=k-zMkzmduqI&t=0s
 
 **TOPICS**
 - Custom Materials
-- Textures
 - Material Tinting
+- Textures
+- Normal Maps
 
 ### Tutorial: Top-down Shooter
 https://www.youtube.com/watch?v=ROMWCMmNBHE
