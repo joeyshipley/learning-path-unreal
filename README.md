@@ -57,12 +57,9 @@ https://www.gamedev.tv/p/unrealmultiplayer
 https://www.youtube.com/watch?v=k-zMkzmduqI&t=0s
 
 **TOPICS**
-- Custom Materials
-- Material Tinting
-- Master Materials
-- Textures
-- Normal Maps
 - Migrating content from project to project
+- Materials, Maps, & Textures
+- Lighting
 
 ### Tutorial: Top-down Shooter
 https://www.youtube.com/watch?v=ROMWCMmNBHE
