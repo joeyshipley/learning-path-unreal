@@ -19,8 +19,15 @@
 ### Course: Foundations and Feature Exploration
 https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
 
-**Summary/Concepts**
-Coming soon.
+**TOPICS**
+- IDE
+- Core Engine Basics: Actors, Components, Game Mode, Levels, Character Controller, Line Tracing, Collisions, Particles, Sounds, Lighting, Camera, Spring Arm, etc.
+- Level Design Basics
+- AI Basics
+- GUI Basics
+- Animation Basics
+- Blueprint Basics
+- C++ Basics
 
 **Additional**
 - (Actors & Components) https://www.youtube.com/watch?v=iQ3c-lrHO7o
