@@ -67,6 +67,8 @@ https://www.youtube.com/watch?v=k-zMkzmduqI&t=0s
 - Migrating content from project to project
 - Materials, Maps, & Textures
 - Lighting
+- Landscapes
+- Quixel Bridge / Megascans
 
 ### Tutorial: Top-down Shooter
 https://www.youtube.com/watch?v=ROMWCMmNBHE
