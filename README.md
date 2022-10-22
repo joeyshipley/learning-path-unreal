@@ -24,7 +24,7 @@ https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
 - Core Engine Basics: Actors, Components, Game Mode, Levels, Character Controller, Line Tracing, Collisions, Particles, Sounds, Lighting, Camera, Spring Arm, etc.
 - Level Design Basics
 - AI Basics
-- GUI Basics
+- GUI/Widgets Basics
 - Animation Basics
 - Blueprint Basics
 - C++ Basics
