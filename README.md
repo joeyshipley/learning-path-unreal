@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=k-zMkzmduqI&t=0s
 - Migrating content from project to project
 - Materials, Maps, & Textures
 - Lighting
-- Landscaping, foliage, nanites
+- Landscaping, sculpting, painting, foliage, nanites
 - Quixel Bridge / Megascans
 
 ### Tutorial: Top-down Shooter
