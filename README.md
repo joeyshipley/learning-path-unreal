@@ -79,6 +79,7 @@ https://www.youtube.com/watch?v=ROMWCMmNBHE
 - https://www.youtube.com/watch?v=864MNv4vqtI
 - https://github.com/zytalus/game-studio
 - Login: AWS Cloud9 
+- Very Basics of Perforce: https://www.perforce.com/products/helix-core/configure-helix-core-game-engine#tab-panel-76012 Create workspace and as far as you want to take it from there.
 
 ## Books
 
