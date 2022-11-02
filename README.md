@@ -78,6 +78,7 @@ https://www.youtube.com/watch?v=ROMWCMmNBHE
 - Download PV4: https://www.perforce.com/downloads/helix-visual-client-p4v
 - https://www.youtube.com/watch?v=864MNv4vqtI
 - https://github.com/zytalus/game-studio
+- Login: AWS Cloud9 
 
 ## Books
 
