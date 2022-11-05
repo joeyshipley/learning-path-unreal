@@ -5,6 +5,7 @@
 - [x] Course: [Foundations and Feature Exploration](#course-foundations-and-feature-exploration)
 - [x] Tutorial: [Realistic Landscape and Painting](#tutorial-realistic-landscape-and-painting)
 - [x] Learn/Setup: [Source Control - Perforce in AWS](#tutorial-perforce-helix-core-source-control-in-aws)
+- [ ] Tutorial: [Animation Retargeting Technique](#tutorial-animation-retargeting)
 - [ ] Course: [Unreal Blueprints](#course-unreal-blueprints)
 - [ ] Tutorial: [Top-down Shooter](#tutorial-top-down-shooter)
 - [ ] Book: [Effective C++](#book-effective-c)
@@ -69,6 +70,13 @@ https://www.youtube.com/watch?v=k-zMkzmduqI&t=0s
 - Lighting
 - Landscaping, sculpting, painting, foliage, nanites
 - Quixel Bridge / Megascans
+
+### Tutorial: Animation Retargeting
+https://www.youtube.com/watch?v=6XQh0g0J5f0
+
+**TOPICS**
+- Mesh/Animation retargeting to pick up other animations
+- This tutorial uses Synty as the example, but this technique can be used in a variety of meshes
 
 ### Tutorial: Top-down Shooter
 https://www.youtube.com/watch?v=ROMWCMmNBHE
