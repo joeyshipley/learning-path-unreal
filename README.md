@@ -98,6 +98,7 @@ Beautiful C++, Kate Gregory
 - What does testing look like in Unreal & C++?
 - Animation Systems, Skeletal Meshes
 - Character Rigging, Auto Riggers?
+- (Animation Retarget) https://www.youtube.com/watch?v=6XQh0g0J5f0
 - (Cinematics Course) https://www.gamedev.tv/p/unreal-cinematic
 - (MetaHumans) https://www.youtube.com/watch?v=EkXV8Q8-ZD4
 - (MetaHumans) https://www.youtube.com/watch?v=k6BeWaBux7c
