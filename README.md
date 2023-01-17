@@ -6,8 +6,7 @@
 - [x] Tutorial: [Realistic Landscape and Painting](#tutorial-realistic-landscape-and-painting)
 - [x] Learn/Setup: [Source Control - Perforce in AWS](#tutorial-perforce-helix-core-source-control-in-aws)
 - [x] Tutorial: [Animation Retargeting Technique](#tutorial-animation-retargeting)
-- [ ] Course: [Unreal Blueprints](#course-unreal-blueprints)
-- [ ] Tutorial: [Top-down Shooter](#tutorial-top-down-shooter)
+- [ ] Course: [Unreal Multiplayer](#course-unreal-multiplayer)
 - [ ] Book: [Effective C++](#book-effective-c)
 - [ ] Course: [Unreal C++](#course-unreal-c)
 - [ ] Book: [Effective Modern C++](#book-effective-modern-c)
@@ -34,8 +33,8 @@ https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
 - (Actors & Components) https://www.youtube.com/watch?v=iQ3c-lrHO7o
 - (Blueprints & C++) https://www.youtube.com/watch?v=VMZftEVDuCE
 
-### Course: Unreal Blueprints
-https://www.gamedev.tv/p/unreal-blueprint
+### Course: Unreal Multiplayer
+https://www.gamedev.tv/p/unrealmultiplayer
 
 **Additional**
 - (Blueprint Interfaces) https://www.youtube.com/watch?v=m9416Fi-PJw
@@ -49,11 +48,6 @@ https://www.gamedev.tv/p/cpp-fundamentals
 
 ### Course: Math
 https://www.gamedev.tv/p/math-for-games
-
-**Additional**
-
-### Course: Multiplayer
-https://www.gamedev.tv/p/unrealmultiplayer
 
 **Additional**
 
