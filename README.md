@@ -11,7 +11,6 @@
 - [ ] Course: [Unreal C++ Multiplayer FPS](#course-unreal-multiplayer-fps)
 - [ ] Course: [Unreal C++ Action RPG](#course-unreal-action-rpg)
 - [ ] Book: [Effective C++](#book-effective-c)
-- [ ] Course: [Unreal C++](#course-unreal-c)
 - [ ] Book: [Effective Modern C++](#book-effective-modern-c)
 - [ ] Book: [Beautiful C++](#book-beautiful-c)
 - [ ] Course: [Math](#course-math)
@@ -32,10 +31,6 @@ https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
 - Blueprint Basics
 - C++ Basics
 
-**Additional**
-- (Actors & Components) https://www.youtube.com/watch?v=iQ3c-lrHO7o
-- (Blueprints & C++) https://www.youtube.com/watch?v=VMZftEVDuCE
-
 ### Course: Unreal Multiplayer
 https://www.gamedev.tv/p/unrealmultiplayer
 
@@ -48,21 +43,16 @@ https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter/
 ### Course: Unreal Action RPG
 https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/
 
-**Additional**
-- (Blueprint Interfaces) https://www.youtube.com/watch?v=m9416Fi-PJw
-- (Blueprint Actor Components) https://www.youtube.com/watch?v=GxjrEzj9N5c
-
-### Course: Unreal C++
-https://www.gamedev.tv/p/cpp-fundamentals
-
-**Additional**
-- (Pointers) https://www.youtube.com/watch?v=kiUGf_Z08RQ
-
 ### Course: Math
 https://www.gamedev.tv/p/math-for-games
 
 **Additional**
 
+- (Pointers) https://www.youtube.com/watch?v=kiUGf_Z08RQ
+- (Actors & Components) https://www.youtube.com/watch?v=iQ3c-lrHO7o
+- (Blueprints & C++) https://www.youtube.com/watch?v=VMZftEVDuCE
+- (Blueprint Interfaces) https://www.youtube.com/watch?v=m9416Fi-PJw
+- (Blueprint Actor Components) https://www.youtube.com/watch?v=GxjrEzj9N5c
 - (Network Replication) https://www.youtube.com/watch?v=JOJP0CvpB8w
 
 ## Tutorials
