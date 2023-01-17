@@ -14,7 +14,6 @@
 - [ ] Book: [Effective Modern C++](#book-effective-modern-c)
 - [ ] Book: [Beautiful C++](#book-beautiful-c)
 - [ ] Course: [Math](#course-math)
-- [ ] Course: [Multiplayer](#course-multiplayer)
 
 ## Courses
 
