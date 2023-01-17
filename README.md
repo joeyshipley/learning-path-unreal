@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=ROMWCMmNBHE
 
 > NOTE: at the time I followed these tutorials, this Cloud9 deployment was successfully done in the free tier and has 10gb storage space.
 
-> NOTE: after a couple of commits, blew past the free tier and surpased $25/mo and climbing. Tore it down and looking at other options for hobby use.
+> NOTE: after a couple of commits, I blew past the free tier and surpased $25/mo, and was continuing to climb in cost. I tore it down and will be looking at Github, and then SVN after that if needed.
 
 - Download PV4: https://www.perforce.com/downloads/helix-visual-client-p4v
 - https://www.youtube.com/watch?v=864MNv4vqtI
