@@ -75,8 +75,11 @@ https://www.youtube.com/watch?v=ROMWCMmNBHE
 
 ## Source Control
 ### Perforce Helix Core Source Control in AWS
+
 > NOTE: at the time I followed these tutorials, this Cloud9 deployment was successfully done in the free tier and has 10gb storage space.
+
 > NOTE: after a couple of commits, blew past the free tier and surpased $25/mo and climbing. Tore it down and looking at other options for hobby use.
+
 - Download PV4: https://www.perforce.com/downloads/helix-visual-client-p4v
 - https://www.youtube.com/watch?v=864MNv4vqtI
 - https://github.com/zytalus/game-studio
