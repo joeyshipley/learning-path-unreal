@@ -6,7 +6,10 @@
 - [x] Tutorial: [Realistic Landscape and Painting](#tutorial-realistic-landscape-and-painting)
 - [x] Learn/Setup: [Source Control - Perforce in AWS](#tutorial-perforce-helix-core-source-control-in-aws)
 - [x] Tutorial: [Animation Retargeting Technique](#tutorial-animation-retargeting)
+- [ ] Tutorial: [Source Control - Github]()
 - [ ] Course: [Unreal Multiplayer](#course-unreal-multiplayer)
+- [ ] Course: [Unreal Multiplayer FPS](#course-unreal-multiplayer-fps)
+- [ ] Course: [Unreal Multiplayer FPS](#course-unreal-action-rpg)
 - [ ] Book: [Effective C++](#book-effective-c)
 - [ ] Course: [Unreal C++](#course-unreal-c)
 - [ ] Book: [Effective Modern C++](#book-effective-modern-c)
@@ -35,6 +38,15 @@ https://www.gamedev.tv/p/unreal-5-0-c-developer-learn-c-and-make-video-games
 
 ### Course: Unreal Multiplayer
 https://www.gamedev.tv/p/unrealmultiplayer
+
+### Course: Unreal Multiplayer FPS
+https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter/
+
+### Course: Unreal Multiplayer FPS
+https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter/
+
+### Course: Unreal Action RPG
+https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/
 
 **Additional**
 - (Blueprint Interfaces) https://www.youtube.com/watch?v=m9416Fi-PJw
@@ -78,11 +90,15 @@ https://www.youtube.com/watch?v=ROMWCMmNBHE
 ## Source Control
 ### Perforce Helix Core Source Control in AWS
 > NOTE: at the time I followed these tutorials, this Cloud9 deployment was successfully done in the free tier and has 10gb storage space.
+> NOTE: after a couple of commits, blew past the free tier and surpased $25/mo and climbing. Tore it down and looking at other options for hobby use.
 - Download PV4: https://www.perforce.com/downloads/helix-visual-client-p4v
 - https://www.youtube.com/watch?v=864MNv4vqtI
 - https://github.com/zytalus/game-studio
 - Login: AWS Cloud9 
 - Very Basics of Perforce: https://www.perforce.com/products/helix-core/configure-helix-core-game-engine#tab-panel-76012 Create workspace and as far as you want to take it from there.
+
+### Github
+https://www.youtube.com/watch?v=5J0CczTshKY
 
 ## Books
 
