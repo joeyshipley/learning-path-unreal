@@ -6,7 +6,7 @@
 - [x] Tutorial: [Realistic Landscape and Painting](#tutorial-realistic-landscape-and-painting)
 - [x] Learn/Setup: [Source Control - Perforce in AWS](#tutorial-perforce-helix-core-source-control-in-aws)
 - [x] Tutorial: [Animation Retargeting Technique](#tutorial-animation-retargeting)
-- [ ] Tutorial: [Source Control - Github](#github)
+- [x] Tutorial: [Source Control - Github](#github)
 - [ ] Course: [Unreal Multiplayer](#course-unreal-multiplayer)
 - [ ] Course: [Unreal C++ Multiplayer FPS](#course-unreal-multiplayer-fps)
 - [ ] Course: [Unreal C++ Action RPG](#course-unreal-action-rpg)
